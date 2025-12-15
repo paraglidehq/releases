@@ -2,7 +2,21 @@
 
 Binary releases for Paraglide tools.
 
-## CLI Installation
+## CLI
+
+### Quick Install
+
+**macOS / Linux:**
+
+```bash
+curl -fsSL https://paraglide.dev/install.sh | bash
+```
+
+**Windows (PowerShell):**
+
+```powershell
+irm paraglide.dev/install.ps1 | iex
+```
 
 ### Homebrew (macOS/Linux)
 
