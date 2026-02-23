@@ -9,13 +9,13 @@ Binary releases for Paraglide tools.
 **macOS / Linux:**
 
 ```bash
-curl -fsSL https://paraglide.dev/install.sh | bash
+curl -fsSL https://paraglide.sh/install.sh | bash
 ```
 
 **Windows (PowerShell):**
 
 ```powershell
-irm paraglide.dev/install.ps1 | iex
+irm paraglide.sh/install.ps1 | iex
 ```
 
 ### Homebrew (macOS/Linux)
