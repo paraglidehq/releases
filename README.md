@@ -1,6 +1,6 @@
-# Paraglide Releases
+# Beyond Releases
 
-Binary releases for Paraglide tools.
+Binary releases for Beyond tools.
 
 ## CLI
 
@@ -9,33 +9,33 @@ Binary releases for Paraglide tools.
 **macOS / Linux:**
 
 ```bash
-curl -fsSL https://paraglide.sh/install.sh | bash
+curl -fsSL https://beyond.dev/install.sh | bash
 ```
 
 **Windows (PowerShell):**
 
 ```powershell
-irm paraglide.sh/install.ps1 | iex
+irm beyond.dev/install.ps1 | iex
 ```
 
 ### Homebrew (macOS/Linux)
 
 ```bash
-brew install paraglidehq/tap/paraglide
+brew install beyondoss/tap/beyond
 ```
 
 ### Manual Download
 
-Download the latest release for your platform from the [releases page](https://github.com/paraglidehq/releases/releases).
+Download the latest release for your platform from the [releases page](https://github.com/beyondoss/releases/releases).
 
 | Platform | Architecture | Download |
 |----------|--------------|----------|
-| macOS | Apple Silicon | `paraglide_darwin_arm64.tar.gz` |
-| macOS | Intel | `paraglide_darwin_amd64.tar.gz` |
-| Linux | x64 | `paraglide_linux_amd64.tar.gz` |
-| Linux | ARM64 | `paraglide_linux_arm64.tar.gz` |
-| Windows | x64 | `paraglide_windows_amd64.zip` |
-| Windows | ARM64 | `paraglide_windows_arm64.zip` |
+| macOS | Apple Silicon | `beyond_darwin_arm64.tar.gz` |
+| macOS | Intel | `beyond_darwin_amd64.tar.gz` |
+| Linux | x64 | `beyond_linux_amd64.tar.gz` |
+| Linux | ARM64 | `beyond_linux_arm64.tar.gz` |
+| Windows | x64 | `beyond_windows_amd64.zip` |
+| Windows | ARM64 | `beyond_windows_arm64.zip` |
 
 ### Verify Checksums
 
